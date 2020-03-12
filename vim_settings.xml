@@ -5,7 +5,14 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/ServerSettingServiceImpl.java" timestamp="1583997368831" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/FunctionDataRuleSettingServiceImpl.java" timestamp="1583998218409" />
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/service/impl/DataItemSettingServiceImpl.java" timestamp="1584000249697" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/MethodRuleItem.java" timestamp="1583998167328" />
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/bean/EmbeddeCodeItemBean.java" timestamp="1584000691088">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/model/DataItemDetailSetting.java" timestamp="1584000943997" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/OptionItem.java" timestamp="1583998205798" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/resources/sql-mapping.xml" timestamp="1583998245204" />
       <file name="/fragment.java" timestamp="1583995050675">
@@ -14,7 +21,14 @@
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/EmbeddedCodeSettingServiceImpl.java" timestamp="1583997990657" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
