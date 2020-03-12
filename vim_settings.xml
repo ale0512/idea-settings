@@ -1,10 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/ParamterTypeItem.java" timestamp="1584002925914">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/ServerSettingServiceImpl.java" timestamp="1583997368831" />
-      <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/FunctionDataRuleSettingServiceImpl.java" timestamp="1584001889289" />
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/FunctionDataRuleSettingServiceImpl.java" timestamp="1584002624461" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/service/impl/DataItemSettingServiceImpl.java" timestamp="1584000249697" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/MethodRuleItem.java" timestamp="1583998167328" />
       <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/bean/EmbeddeCodeItemBean.java" timestamp="1584000691088">
@@ -20,13 +26,22 @@
       </file>
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/service/impl/EmbeddedCodeSettingServiceImpl.java" timestamp="1583997990657" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/ParamterTypeItem.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/ParamterTypeItem.java" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">c3MK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3MK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgbykgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text />
       </register>
     </registers>
     <search>
@@ -39,6 +54,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
