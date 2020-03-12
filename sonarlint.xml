@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.128.1.60:9000" />
+          <token>dfcedf9bdf93df98dfc8df99df9bdf9ddfcfdf98df9cdfcfdfcbdfcbdf92df9adf9fdf99df9adf9fdf9ddf9ddf9fdf9ddfccdfcedf93df9adf9ddfcedf9edf93dfcfdfcfdf93dfcedf92dfcedf9adfc9</token>
+          <option name="name" value="tingyun-sonaqube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

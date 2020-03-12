@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="200" />
+  <JSCodeStyleSettings>
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="4" />
+  </codeStyleSettings>
+</code_scheme>

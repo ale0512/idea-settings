@@ -1,0 +1,18 @@
+<application>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="SYNC_BINARY_EDITOR_SETTINGS" value="false" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+</application>

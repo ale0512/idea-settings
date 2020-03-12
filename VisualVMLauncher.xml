@@ -1,0 +1,5 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="visualVmExecutable" value="$USER_HOME$/Applications/visualvm_142/bin/visualvm" />
+  </component>
+</application>

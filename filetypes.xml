@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.gitignore;*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;node_modules;rcs;target;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="ErrorExample" type="CLASS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Code" type="JAVA" />
+      <mapping pattern="ErrorExample.java" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
