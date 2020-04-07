@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.vue</mask>
@@ -16,7 +16,6 @@
     <mask>*.js</mask>
     <mask>*.xm</mask>
     <mask>*.yml</mask>
-    <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,5 +23,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.*</mask>
+    <mask>*.css</mask>
   </component>
 </application>
