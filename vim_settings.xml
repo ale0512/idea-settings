@@ -25,10 +25,10 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/applications/git.tingyun/tapm/tapm-server-api/src/main/java/com/tingyun/server/controller/ComponentChartController.java" timestamp="1607155322980">
-        <mark key="[" line="118" column="39" />
-        <mark key="]" line="118" column="39" />
-        <mark key="." line="118" column="39" />
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/tapm/tapm-server-api/src/main/java/com/tingyun/server/controller/ComponentChartController.java" timestamp="1607155554144">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1583995050675">
         <mark key="[" line="0" column="0" />
@@ -49,7 +49,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5pWw5o2u6YeM57uE5Lu25b2T5YmN55qE5LqL5Yqh6LCD55So6ICF5YiG5p6QCiAgICAgKiAvRGF0YWJhc2UvYWN0aW9uVGFibGVMaXN0CiAgICAgKi8KICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsiL3tjb21wb25lbnRUeXBlU3RyfS9hY3Rpb25UYWJsZUxpc3QiLCIvY29tcG9uZW50L2FjdGlvblRhYmxlTGlzdCIsIi9EZXNjcmliZUNvbXBvbmVudFRyYW5zYWN0aW9uVGFibGUifSkKICAgIHB1YmxpYyBBcGlDb2xsZWN0aW9uUmVzdWx0IGFjdGlvblRhYmxlTGlzdChAUmVxdWVzdEJvZHkgU3ZyQ29tcG9uZW50RGF0YUNyaXRlcmlhIGNyaXRlcmlhKSB7CiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oInJlcXVlc3QganNvbiA6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoY3JpdGVyaWEpKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhcHBsaWNhdGlvbklkcyA9IFNoaXJvVXRpbC5nZXRJbmZvKCkuZ2V0UmVzb3VyY2VJZHMoUmVzb3VyY2VUeXBlLlNFUlZFUl9CSVpfQVBQTElDQVRJT04pOwogICAgICAgIGNyaXRlcmlhLnNldEFwcGxpY2F0aW9uSWRzKGFwcGxpY2F0aW9uSWRzKTsKICAgICAgICBsb2dnZXIuaW5mbygiQXBwbGljYXRpb25JZHNbe31dIGlzIGVtcHR5LCBBY2NvdW50W3t9XSBpbmZvIGlzIGFjcXVpcmVkIGZvcm0gb3RoZXIgcGxhY2UiLCBhcHBsaWNhdGlvbklkcywgU2hpcm9VdGlsLmdldEluZm8oKSk7CiAgICAgICAgTGlzdDxDb21wb25lbnRBY3Rpb25CZWFuPiBsaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcGxpY2F0aW9uSWRzKSAmJiBhcCkgewogICAgICAgICAgICBsaXN0ID0gY29tcG9uZW50U2VydmljZS5hY3Rpb25UYWJsZUxpc3QoY3JpdGVyaWEpOwogICAgICAgIH0KICAgICAgICBUQVBNUmVzcG9uc2VVdGlsLnNldFJlc3VsdEhvbGRlcihuZXcgQ29tbW9uRGF0YUhvbGRlcihsaXN0KSk7CiAgICAgICAgcmV0dXJuIHRoaXMucmVzdWx0Q29sbGVjdGlvbkhhbmRsZXIoImxpc3QiLCBsaXN0KTsKICAgIH0KCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5pWw5o2u6YeM57uE5Lu25b2T5YmN55qE5LqL5Yqh6LCD55So6ICF5YiG5p6QCiAgICAgKiAvRGF0YWJhc2UvYWN0aW9uVGFibGVMaXN0CiAgICAgKi8KICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsiL3tjb21wb25lbnRUeXBlU3RyfS9hY3Rpb25UYWJsZUxpc3QiLCIvY29tcG9uZW50L2FjdGlvblRhYmxlTGlzdCIsIi9EZXNjcmliZUNvbXBvbmVudFRyYW5zYWN0aW9uVGFibGUifSkKICAgIHB1YmxpYyBBcGlDb2xsZWN0aW9uUmVzdWx0IGFjdGlvblRhYmxlTGlzdChAUmVxdWVzdEJvZHkgU3ZyQ29tcG9uZW50RGF0YUNyaXRlcmlhIGNyaXRlcmlhKSB7CiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oInJlcXVlc3QganNvbiA6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoY3JpdGVyaWEpKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhcHBsaWNhdGlvbklkcyA9IFNoaXJvVXRpbC5nZXRJbmZvKCkuZ2V0UmVzb3VyY2VJZHMoUmVzb3VyY2VUeXBlLlNFUlZFUl9CSVpfQVBQTElDQVRJT04pOwogICAgICAgIGNyaXRlcmlhLnNldEFwcGxpY2F0aW9uSWRzKGFwcGxpY2F0aW9uSWRzKTsKICAgICAgICBsb2dnZXIuaW5mbygiQXBwbGljYXRpb25JZHNbe31dIGlzIGVtcHR5LCBBY2NvdW50W3t9XSBpbmZvIGlzIGFjcXVpcmVkIGZvcm0gb3RoZXIgcGxhY2UiLCBhcHBsaWNhdGlvbklkcywgU2hpcm9VdGlsLmdldEluZm8oKSk7CiAgICAgICAgTGlzdDxDb21wb25lbnRBY3Rpb25CZWFuPiBsaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcGxpY2F0aW9uSWRzKSAmJiBhcCkgewogICAgICAgICAgICBsaXN0ID0gY29tcG9uZW50U2VydmljZS5hY3Rpb25UYWJsZUxpc3QoY3JpdGVyaWEpOwogICAgICAgIH0KICAgICAgICBUQVBNUmVzcG9uc2VVdGlsLnNldFJlc3VsdEhvbGRlcihuZXcgQ29tbW9uRGF0YUhvbGRlcihsaXN0KSk7CiAgICAgICAgcmV0dXJuIHRoaXMucmVzdWx0Q29sbGVjdGlvbkhhbmRsZXIoImxpc3QiLCBsaXN0KTsKICAgIH0KCgo=</text>
@@ -61,7 +61,7 @@
         <text encoding="base64">CXB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgbykgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>70</text>
