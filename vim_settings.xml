@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/ParamterTypeItem.java" timestamp="1584002925914">
@@ -9,11 +9,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-wrap/src/main/resources/spring-dubbo.xml" timestamp="1599477108625" />
-      <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/bean/EmbeddeCodeItemBean.java" timestamp="1584000691088">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="/Dummy.txt" timestamp="1607154419713">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/tapm/tapm-server-api/src/main/java/com/tingyun/server/controller/ComponentController.java" timestamp="1607154410687">
+        <mark key="[" line="248" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/applications/git.tingyun/tingyun-server-report/tingyun-report-server/src/main/webapp/WEB-INF/layouts/header.jsp" timestamp="1599479044050">
         <mark key="'" line="20" column="15" />
@@ -25,6 +25,11 @@
       <file name="/fragment.java" timestamp="1583995050675">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/applications/git.tingyun/3.0-report-api/server-config/src/main/java/com/tingyun/server/config/conf/bean/EmbeddeCodeItemBean.java" timestamp="1584000691088">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/Documents/applications/git.tingyun/tingyun3-apm-dc-server/src/main/java/com/tingyun/newlens/apm/dc/server/response/ParamterTypeItem.java" />
@@ -33,12 +38,18 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">c3MK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5pWw5o2u6YeM57uE5Lu25b2T5YmN55qE5LqL5Yqh6LCD55So6ICF5YiG5p6QCiAgICAgKiAvRGF0YWJhc2UvYWN0aW9uVGFibGVMaXN0CiAgICAgKi8KICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsiL3tjb21wb25lbnRUeXBlU3RyfS9hY3Rpb25UYWJsZUxpc3QiLCIvY29tcG9uZW50L2FjdGlvblRhYmxlTGlzdCIsIi9EZXNjcmliZUNvbXBvbmVudFRyYW5zYWN0aW9uVGFibGUifSkKICAgIHB1YmxpYyBBcGlDb2xsZWN0aW9uUmVzdWx0IGFjdGlvblRhYmxlTGlzdChAUmVxdWVzdEJvZHkgU3ZyQ29tcG9uZW50RGF0YUNyaXRlcmlhIGNyaXRlcmlhKSB7CiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oInJlcXVlc3QganNvbiA6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoY3JpdGVyaWEpKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhcHBsaWNhdGlvbklkcyA9IFNoaXJvVXRpbC5nZXRJbmZvKCkuZ2V0UmVzb3VyY2VJZHMoUmVzb3VyY2VUeXBlLlNFUlZFUl9CSVpfQVBQTElDQVRJT04pOwogICAgICAgIGNyaXRlcmlhLnNldEFwcGxpY2F0aW9uSWRzKGFwcGxpY2F0aW9uSWRzKTsKICAgICAgICBsb2dnZXIuaW5mbygiQXBwbGljYXRpb25JZHNbe31dIGlzIGVtcHR5LCBBY2NvdW50W3t9XSBpbmZvIGlzIGFjcXVpcmVkIGZvcm0gb3RoZXIgcGxhY2UiLCBhcHBsaWNhdGlvbklkcywgU2hpcm9VdGlsLmdldEluZm8oKSk7CiAgICAgICAgTGlzdDxDb21wb25lbnRBY3Rpb25CZWFuPiBsaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcGxpY2F0aW9uSWRzKSAmJiBhcCkgewogICAgICAgICAgICBsaXN0ID0gY29tcG9uZW50U2VydmljZS5hY3Rpb25UYWJsZUxpc3QoY3JpdGVyaWEpOwogICAgICAgIH0KICAgICAgICBUQVBNUmVzcG9uc2VVdGlsLnNldFJlc3VsdEhvbGRlcihuZXcgQ29tbW9uRGF0YUhvbGRlcihsaXN0KSk7CiAgICAgICAgcmV0dXJuIHRoaXMucmVzdWx0Q29sbGVjdGlvbkhhbmRsZXIoImxpc3QiLCBsaXN0KTsKICAgIH0KCgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>http://www.tingyun.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5pWw5o2u6YeM57uE5Lu25b2T5YmN55qE5LqL5Yqh6LCD55So6ICF5YiG5p6QCiAgICAgKiAvRGF0YWJhc2UvYWN0aW9uVGFibGVMaXN0CiAgICAgKi8KICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsiL3tjb21wb25lbnRUeXBlU3RyfS9hY3Rpb25UYWJsZUxpc3QiLCIvY29tcG9uZW50L2FjdGlvblRhYmxlTGlzdCIsIi9EZXNjcmliZUNvbXBvbmVudFRyYW5zYWN0aW9uVGFibGUifSkKICAgIHB1YmxpYyBBcGlDb2xsZWN0aW9uUmVzdWx0IGFjdGlvblRhYmxlTGlzdChAUmVxdWVzdEJvZHkgU3ZyQ29tcG9uZW50RGF0YUNyaXRlcmlhIGNyaXRlcmlhKSB7CiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oInJlcXVlc3QganNvbiA6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoY3JpdGVyaWEpKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhcHBsaWNhdGlvbklkcyA9IFNoaXJvVXRpbC5nZXRJbmZvKCkuZ2V0UmVzb3VyY2VJZHMoUmVzb3VyY2VUeXBlLlNFUlZFUl9CSVpfQVBQTElDQVRJT04pOwogICAgICAgIGNyaXRlcmlhLnNldEFwcGxpY2F0aW9uSWRzKGFwcGxpY2F0aW9uSWRzKTsKICAgICAgICBsb2dnZXIuaW5mbygiQXBwbGljYXRpb25JZHNbe31dIGlzIGVtcHR5LCBBY2NvdW50W3t9XSBpbmZvIGlzIGFjcXVpcmVkIGZvcm0gb3RoZXIgcGxhY2UiLCBhcHBsaWNhdGlvbklkcywgU2hpcm9VdGlsLmdldEluZm8oKSk7CiAgICAgICAgTGlzdDxDb21wb25lbnRBY3Rpb25CZWFuPiBsaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcGxpY2F0aW9uSWRzKSAmJiBhcCkgewogICAgICAgICAgICBsaXN0ID0gY29tcG9uZW50U2VydmljZS5hY3Rpb25UYWJsZUxpc3QoY3JpdGVyaWEpOwogICAgICAgIH0KICAgICAgICBUQVBNUmVzcG9uc2VVdGlsLnNldFJlc3VsdEhvbGRlcihuZXcgQ29tbW9uRGF0YUhvbGRlcihsaXN0KSk7CiAgICAgICAgcmV0dXJuIHRoaXMucmVzdWx0Q29sbGVjdGlvbkhhbmRsZXIoImxpc3QiLCBsaXN0KTsKICAgIH0KCgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5pWw5o2u6YeM57uE5Lu25b2T5YmN55qE5LqL5Yqh6LCD55So6ICF5YiG5p6QCiAgICAgKiAvRGF0YWJhc2UvYWN0aW9uVGFibGVMaXN0CiAgICAgKi8KICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IHsiL3tjb21wb25lbnRUeXBlU3RyfS9hY3Rpb25UYWJsZUxpc3QiLCIvY29tcG9uZW50L2FjdGlvblRhYmxlTGlzdCIsIi9EZXNjcmliZUNvbXBvbmVudFRyYW5zYWN0aW9uVGFibGUifSkKICAgIHB1YmxpYyBBcGlDb2xsZWN0aW9uUmVzdWx0IGFjdGlvblRhYmxlTGlzdChAUmVxdWVzdEJvZHkgU3ZyQ29tcG9uZW50RGF0YUNyaXRlcmlhIGNyaXRlcmlhKSB7CiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oInJlcXVlc3QganNvbiA6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoY3JpdGVyaWEpKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhcHBsaWNhdGlvbklkcyA9IFNoaXJvVXRpbC5nZXRJbmZvKCkuZ2V0UmVzb3VyY2VJZHMoUmVzb3VyY2VUeXBlLlNFUlZFUl9CSVpfQVBQTElDQVRJT04pOwogICAgICAgIGNyaXRlcmlhLnNldEFwcGxpY2F0aW9uSWRzKGFwcGxpY2F0aW9uSWRzKTsKICAgICAgICBsb2dnZXIuaW5mbygiQXBwbGljYXRpb25JZHNbe31dIGlzIGVtcHR5LCBBY2NvdW50W3t9XSBpbmZvIGlzIGFjcXVpcmVkIGZvcm0gb3RoZXIgcGxhY2UiLCBhcHBsaWNhdGlvbklkcywgU2hpcm9VdGlsLmdldEluZm8oKSk7CiAgICAgICAgTGlzdDxDb21wb25lbnRBY3Rpb25CZWFuPiBsaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcGxpY2F0aW9uSWRzKSAmJiBhcCkgewogICAgICAgICAgICBsaXN0ID0gY29tcG9uZW50U2VydmljZS5hY3Rpb25UYWJsZUxpc3QoY3JpdGVyaWEpOwogICAgICAgIH0KICAgICAgICBUQVBNUmVzcG9uc2VVdGlsLnNldFJlc3VsdEhvbGRlcihuZXcgQ29tbW9uRGF0YUhvbGRlcihsaXN0KSk7CiAgICAgICAgcmV0dXJuIHRoaXMucmVzdWx0Q29sbGVjdGlvbkhhbmRsZXIoImxpc3QiLCBsaXN0KTsKICAgIH0KCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c3MK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CXB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgbykgewo=</text>
       </register>
       <register name="-" type="4">
@@ -52,6 +63,8 @@
       <last-search>70</last-search>
       <last-offset />
       <last-pattern>70</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>70</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
