@@ -74,6 +74,10 @@
           <option name="url" value="http://git.tingyun.com/tingyun-apm-report/3.0-report-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.tencent.com" />
+          <option name="userName" value="ty_lilei" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/applications/git.tingyun" />
