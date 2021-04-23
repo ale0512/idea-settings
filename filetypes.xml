@@ -9,6 +9,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="ErrorExample.java" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
