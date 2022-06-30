@@ -97,6 +97,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -244,6 +245,11 @@
           </value>
         </entry>
         <entry key="org.intellij.plugins.junitgen">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
           <value>
             <PluginData />
           </value>
