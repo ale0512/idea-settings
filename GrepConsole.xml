@@ -90,6 +90,24 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value=" Building ActionBacktrace of ActionId" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Building ActionBacktrace of action[27775]" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value=" Building ActionBacktrace of action[" />
               </GrepModel>
             </list>
