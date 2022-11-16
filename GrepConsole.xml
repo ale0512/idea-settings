@@ -15,15 +15,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="his compone" />
               </GrepModel>
             </list>
@@ -136,6 +127,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="A tree" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
