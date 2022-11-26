@@ -10,7 +10,6 @@
     <mask>*.graphqls</mask>
     <mask>web.xml</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*.xm</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
@@ -23,5 +22,6 @@
     <mask>*.xml</mask>
     <mask>*.java,*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
